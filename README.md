@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Me chamo Giselle, formada em Técnologo em Jogos Digitais pega FATEC de Americana. Nesse tempo eu gostei do fullstack e comecei a estudar, comprei o curdo do OneBitCode, fiz alguns projetos do Dev em Dobro e também alguns da Rocketseat, muitos outros. No momento me vi interessada em Java, que é uma linguagem que é de da arrepios 💀 porém estou gostando, comprei o curso da JavaNAuta. No momento estou estudando e ainda não achei nada na area de programação, tenho esperiencia apenas em projetos como citei antes 😅. Mas quem sabe futuramente eu ache um bom lugar.</p>
 
 ###
 
