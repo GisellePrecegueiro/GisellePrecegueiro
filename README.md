@@ -1,30 +1,54 @@
-## Olá! Seja bem vindo(a)! 💮
+<h1 align="center">Olá! Seja bem vindo (a)!  🌺</h1>
 
-<div>
-  <a href="https://github.com/GisellePrecegueiro">
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
 </div>
-<div style="display:inline_block"><br>
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/giselle-precegueiro" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.twitch.tv/giisellec" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  </a>
+  <a href="https://www.instagram.com/giisellec/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://codepen.io/giselleprecegueiro" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
+  </a>
 </div>
- 
- <br>
- 
-  ## Saiba mais sobre mim!
- 
-<div> 
-  <a href="https://www.instagram.com/giisellec/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href="www.linkedin.com/in/giselle-precegueiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://codepen.io/giselleprecegueiro"><img  width="120px" src="[https://www.loet.io/images/icons/codepen-wordmark-white.png](https://upload.wikimedia.org/wikipedia/commons/9/9a/CodePen_logo.png)"> </a>
-  
-          
- <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GisellePrecegueiro/GisellePrecegueiro/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GisellePrecegueiro/GisellePrecegueiro/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GisellePrecegueiro/GisellePrecegueiro/output/github-contribution-grid-snake.svg">
+
+###
+
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRucXQ0MGw4cGVnZXd4OWlhc3ZyM3VtNDY4dWlrcnFqZ3I0NHZwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcjUQcWclgK94ti/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=GisellePrecegueiro&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GisellePrecegueiro/GisellePrecegueiro/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GisellePrecegueiro/GisellePrecegueiro/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GisellePrecegueiro/GisellePrecegueiro/output/pacman-contribution-graph.svg">
 </picture>
 
-</div>
+###
