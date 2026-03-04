@@ -21,7 +21,10 @@
   <a href="https://codepen.io/giselleprecegueiro"><img  width="120px" src="[https://www.loet.io/images/icons/codepen-wordmark-white.png](https://upload.wikimedia.org/wikipedia/commons/9/9a/CodePen_logo.png)"> </a>
   
           
- 
-  ![Snake animation](https://github.com/GisellePrecegueiro/GisellePrecegueiro/blob/output/github-contribution-grid-snake.svg)
+ <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GisellePrecegueiro/GisellePrecegueiro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GisellePrecegueiro/GisellePrecegueiro/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GisellePrecegueiro/GisellePrecegueiro/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
